@@ -26,18 +26,31 @@ To explore and visualize Superstore sales data in order to:
 📁 Project Structure
 
 Superstore-Sales-Analysis/
+
 ├── dashboards/
+
 │ ├── superstore_dashboard.twbx 
+
 │ └── sales_dashboard.png 
+
 ├── dataset/
+
 │ └── Sample - Superstore.csv 
+
 ├── screenshots/
+
 │ ├── sales_profit_trend.png
+
 │ ├── sales_by_subcategory.png
+
 │ ├── profit_by_region.png
+
 │ ├── sales_by_state_map.png
+
 │ ├── discount_vs_profit.png
+
 │ └── top_10_customers.png
+
 └── README.md
 
 
